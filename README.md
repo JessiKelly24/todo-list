@@ -14,8 +14,7 @@ API REST para gerenciamento de tarefas desenvolvida com Java e Spring Boot. O pr
 ---
 ### Funcionalidades:
 
-Criar tarefas
-
+- Criar tarefas
 - Listar todas as tarefas
 - Atualizar tarefas
 - Excluir tarefas
