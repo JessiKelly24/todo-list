@@ -5,14 +5,10 @@ API REST para gerenciamento de tarefas desenvolvida com Java e Spring Boot. O pr
 ---
 ### Tecnologias:
 
-Java
-
-Spring Boot
-
+*Java
+*Spring Boot
 Spring Data JPA
-
 PostgreSQL
-
 Maven
 
 ---
